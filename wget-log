@@ -1,0 +1,11 @@
+--2021-12-24 17:23:00--  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprojects-static.raspberrypi.org%2Fprojects%2Fgeneric-theory-pitch-roll-yaw%2F1da6c9e518533fe8c1f70d7445fd6880d7dac12a%2Fen%2Fimages%2Forientation.png
+Resolving external-content.duckduckgo.com (external-content.duckduckgo.com)... 52.142.125.222
+Connecting to external-content.duckduckgo.com (external-content.duckduckgo.com)|52.142.125.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘index.html?u=https:%2F%2Fprojects-static.raspberrypi.org%2Fprojects%2Fgeneric-theory-pitch-roll-yaw%2F1da6c9e518533fe8c1f70d7445fd6880d7dac12a%2Fen%2Fimages%2Forientation.png’
+
+                             index.html?u=https:%2F%2Fproj     [<=>                                                                                                                                      ]       0  --.-KB/s                                           index.html?u=https:%2F%2Fproje     [ <=>                                                                                                                                     ]  47.71K   127KB/s                                          index.html?u=https:%2F%2Fprojec     [  <=>                                                                                                                                    ] 197.29K   341KB/s               index.html?u=https:%2F%2Fprojects-static.raspberrypi.org%2     [   <=>                                                                                                                                   ] 254.82K   343KB/s    in 0.7s    
+
+2021-12-24 17:23:02 (343 KB/s) - ‘index.html?u=https:%2F%2Fprojects-static.raspberrypi.org%2Fprojects%2Fgeneric-theory-pitch-roll-yaw%2F1da6c9e518533fe8c1f70d7445fd6880d7dac12a%2Fen%2Fimages%2Forientation.png’ saved [260934]
+
