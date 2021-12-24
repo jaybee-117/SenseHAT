@@ -2,6 +2,7 @@
 Experimentation with the SenseHAT
 
 ## Calibration
+![Orientation Axes](/Orientation.png "Orientation Axes")
 For calibrating the SenseHAT IMU, first install octave:
 ```bash
 sudo apt install octave -y
